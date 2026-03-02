@@ -1,0 +1,12 @@
+{
+  "students": [
+    {
+      "name": "abhinav",
+      "rollNumber": "11",
+      "class": "19",
+      "date": "2026-03-02",
+      "status": "Present",
+      "id": 1
+    }
+  ]
+}
